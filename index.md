@@ -7,7 +7,7 @@
       <p><b>liuchao at ouc dot edu dot cn</b></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/ouc-chao-liu/chaoLiu/blob/gh-pages/chaoliu.jpg" width="100%">
+      <img src="./chaoliu.jpg" width="100%">
     </td>
   </tr>
 </table>
