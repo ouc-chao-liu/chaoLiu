@@ -1,6 +1,6 @@
 # 基本信息 Basic Information
 
-![image](/ChaoLiu.jpg)
+![image](/chaoliu.jpg)
 
 **Name：** Chao Liu
 
