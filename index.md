@@ -5,7 +5,7 @@
     <td width="75%">
       <h1>Chao Liu</h1>
       <p><b>Associate Professor</b></p>
-      <p><b>liuchao@ouc.edu.cn</b></p>
+      <p><b>liuchao at ouc dot edu dot cn</b></p>
     </td>
     <td width="25%">
       <img src="/chaoliu.jpg" width="100%">
