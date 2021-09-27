@@ -1,7 +1,7 @@
 # 基本信息 Basic Information
-**Name：**Chao Liu
-**Professional Title：**Associate Professor
-**E-mail：**liuchao@ouc.edu.cn
+**Name：** Chao Liu
+**Professional Title：** Associate Professor
+**E-mail：** liuchao@ouc.edu.cn
 
 刘超，副教授，国际计算机学会应用计算委员会（ACM SIGAPP China）执行委员，ISO 21851国际标准工作组副主席，IEEE 1851、IEEE 2404、IEEE 2735工作组委员，长期从事智能感知、智能人机交互、物联网和普适计算的研究工作。先后主持参与了国家自然科学基金重大仪器专项、国家重点研发计划、国家自然科学基金青年项目、国家自然科学基金面上项目和中国博士后科学基金等10余项国家级课题。在包括INFOCOM、TIP、TCSVT、IoTJ等知名国际期刊和国际会议发表学术论文30余篇。指导本科生研究生获国际创新创业大赛一等奖、58AI算法大赛冠军等多项国家级奖励。2020年获国际计算机学会计算机应用专委会（SIGAPP）新星奖。
 
