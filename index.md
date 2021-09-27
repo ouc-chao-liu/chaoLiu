@@ -1,28 +1,28 @@
-#基本信息 Basic Information
+# 基本信息 Basic Information
 **Name：**Chao Liu
 **Professional Title：**Associate Professor
 **E-mail：**liuchao@ouc.edu.cn
 
 刘超，副教授，国际计算机学会应用计算委员会（ACM SIGAPP China）执行委员，ISO 21851国际标准工作组副主席，IEEE 1851、IEEE 2404、IEEE 2735工作组委员，长期从事智能感知、智能人机交互、物联网和普适计算的研究工作。先后主持参与了国家自然科学基金重大仪器专项、国家重点研发计划、国家自然科学基金青年项目、国家自然科学基金面上项目和中国博士后科学基金等10余项国家级课题。在包括INFOCOM、TIP、TCSVT、IoTJ等知名国际期刊和国际会议发表学术论文30余篇。指导本科生研究生获国际创新创业大赛一等奖、58AI算法大赛冠军等多项国家级奖励。2020年获国际计算机学会计算机应用专委会（SIGAPP）新星奖。
 
-#教育及工作经历 Education and Work Experience
+# 教育及工作经历 Education and Work Experience
 
-##教育经历
+## 教育经历
 2014/10－2015/10，伊利诺伊理工大学，联合培养博士
 2011/09－2016/07，中国海洋大学，计算机系统结构，博士
 2007/09－2011/07，中国海洋大学，计算机科学与技术，学士
 
-##工作经历
+## 工作经历
 2016/7－今 中国海洋大学，讲师，副教授；
 
-##学术兼职
+## 学术兼职
 ISO 21851国际标准工作组副主席、China ACM SIGAPP执行委员会委员、China ACM青岛分会执行委员会委员、IEEE 1851国际标准工作组成员、IEEE 2402国际标准工作组成员、IEEE 2735国际标准工作组成员、IEEE 2735.1 国际标准工作组成员、GB/T33137-2016国家标准工作组成员
 
-#研究方向 Research Direction
+# 研究方向 Research Direction
 智能感知、声波感知、人机交互、物联网、容迟网络、轨迹数据挖掘。近期研究计划主要集中在便携设备声波或毫米波感知技术。（部分成果Demo: https://www.bilibili.com/video/BV1ty4y1a7YT/, https://www.bilibili.com/video/BV15p4y1S7As ）
 
-#研究项目 Research Project
-##主持主要项目
+# 研究项目 Research Project
+## 主持主要项目
 1.2020.01-2022.12,国家自然科学基金青年基金“基于多源时空大数据驱动的广海域船联网数据传输算法研究”（#61902367），（位次1）
 2.2021.05-2022.06，中国海洋大学研究生教育改革项目“前沿需求导向的物联网高端人才培养模式研究”（#HDJG21007），（位次1）
 3.2018.03-2020.12,山东省自然科学基金博士基金“基于海量多维轨迹分析的船舶移动自组织网络路由算法研究”（#ZR2018BF006），（位次1）
@@ -34,8 +34,8 @@ ISO 21851国际标准工作组副主席、China ACM SIGAPP执行委员会委员�
 9.2014/01–2017/12，国家自然科学基金面上项目，“基于移动建模的水下传感器网络时间同步理论与算法研究”(#61379128)，参与。
 10.2010/01–2013/12，国家自然科学基金重点项目，“移动容迟网络理论与关键技术研究”(#60933011)，参与
 
-#论文专利 Patent of the Paper
-##---2021---
+# 论文专利 Patent of the Paper
+## ---2021---
 ●Chao Liu#, Penghao Wang#, Ruobing Jiang*, and Yanmin Zhu. AMT: Acoustic Multi-target Tracking with Smartphone MIMO System. INFOCOM 2021. (EI, CCF A)
 ●Chao Liu#, Yingbin Li#, Ruobing Jiang*, Yong Du*, Qian Lu, and Zhongwen Guo. TPR-DTVN: A Routing Algorithm in Delay Tolerant Vessel Network based on Long-term Trajectory Prediction. Wireless Communications and Mobile Computing 2021. (SCI, CCF C)
 ●Jie Gui, Yuan Cao, Heng Qi, Keqiu Li, Jieping Ye, Chao Liu, Xiaowei Xu. Fast kNN Search in Weighted Hamming Space with Multiple Tables. IEEE Transactions on Image Processing 2021. (SCI, CCF A)
@@ -43,27 +43,27 @@ ISO 21851国际标准工作组副主席、China ACM SIGAPP执行委员会委员�
 ●Rui Zhang, Hui Xia*, Chao Liu, et. al. Anti-Attack Scheme for Edge Devices Based on Deep Reinforcement Learning. Wireless Communications and Mobile Computing 2021. (SCI, CCF C)
 ●Zhongning Zhao, Feng Hong*, Haiguang Huang, Chao Liu, Yuan Feng, Zhongwen Guo. Short-term prediction of fishing effort distributions by discovering fishing chronology among trawlers based on VMS dataset. Expert Systems With Applications. (SCI, CCF C)
 ●Guanlong Teng, Yue Xu, Feng Hong*, Jianbo Qi, Ruobing Jiang, Chao Liu, Zhongwen Guo. Recognizing and Counting Freehand Exercises using Ubiquitous Cellular Signals. Sensors. (SCI)
-##---2020---
+## ---2020---
 ●Guanlong Teng, Feng Hong, Yue Xu, Jianbo Qi, Ruobing Jiang, Chao Liu and Zhongwen Guo. MobiFit: Contactless Fitness Assistant for Freehand Exercises Using Just One Cellular Signal Receiver. MSN 2020. (EI, CCF C)
 ●Chao Liu#, Yingbin Li#, Ruobing Jiang*, et. al. Trajectory-based Data Delivery Algorithm in Maritime Vessel Networks based on Bi-LSTM. WASA 2020. (EI, CCF C)
 ●Xi Pang, Shuqi Liao, Chao Liu*. ToPath: Low Power Curve Path Tracking Algorithm for Quadrotor UAV. (preprint)
 ●Wei Jing, Chao Liu*, Ting Li, et. al. Path Planning and Navigation of Oceanic Autonomous Sailboats and Vessels: A Survey. Journal of Ocean University of China. (SCI)
 ●Hui Xia, Li Li, Xiangguo Cheng, Chao Liu and Tie Qiu. A dynamic virus propagation model based on social attributes in city IoTs. IEEE Internet of Things Journal. (SCI)
 ●Hanjiang Luo#, Chao Liu#, Yu Luo, Xu Wang, Ziyang Xu and Yongquan Liang. SDMA: A SDN-based Architecture of Multi-modal AUVs Network. TURC 2020. (EI)
-##---2019---
+## ---2019---
 ●Chao Liu, Shuai Guo, Yuan Feng, Feng Hong ,Haiguang Huang and Zhongwen Guo. L-VTP: Long-term vessel trajectory prediction based on multi-source data analysis. Sensors. (SCI)
 ●Chao Liu*, Sining Jiang, Shuo Zhao and Zhongwen Guo. Infrastructure-free Indoor Pedestrian Tracking with Smartphone Acoustic-based Enhancement. Sensors. (SCI)
 ●Chao Liu, Xi Wang*, Hanjiang Luo*, Yuan Liu, and Zhongwen Guo. VA: Virtual Node Assisted Localization Algorithm for Underwater Acoustic Sensor Networks. IEEE Access. (SCI) 
 ●Chao Liu, Yingbin Li, Ruobing Jiang*, Feng Hong, and Zhongwen Guo. OceanNet: A Low- cost large-scale maritime communication architecture based on D2D communication technology. TURC 2019. (EI)
 ●Hanjiang Luo#, Chao Liu#, Yongquan Liang. A SDN-based Testbed for Underwater Sensor Networks. TURC 2019. (EI)
-##---2018---
+## ---2018---
 ●Shuai Guo, Chao Liu*, Zhongwen Guo, Yuan Feng, Feng Hong and Haiguang Huang, Trajectory Prediction for Ocean Vessels Based on K-order Multivariate Markov Chain. WASA 2018.(EI, CCF C)
 ● Chao Liu, Yingjian Liu*, Zhongwen Guo and Wei Jing. OceanRoute: Vessel Mobility Data Processing and Analyzing Model Based on MapReduce. J. Ocean Univ. China, 2018.(SCI)
 ●Zhongwei Sun, Zhongwen Guo, Chao Liu*, Mingxing Jiang and Xi Wang. Fast Multi-label SVM Training Based on Approximate Extreme Points. Intelligent Data Analysis, 2018.(SCI)
-##---2017---
+## ---2017---
 ●Chao Liu, Zhongwen Sun*, Jing Liu, Haiguang Huang, Zhongwen Guo and Yuan Feng. VSTP: Vessel Spatio-temporal Contact Pattern Detection Based on MapReduce. EURASIP Journal on Wireless Communications and Networking, 2017.(SCI)
 ● Chao Liu, Zhongwen Guo, Yuan Feng*, Feng Hong and Wei Jing. CPCA: The Cloud Platform of Complex Virtual Instruments System Architecture. IEEE Access, 2017.(SCI)
-##---2016---
+## ---2016---
 ● Chao Liu, Yingjian Liu*, Zhongwen Guo, Xi Wang and Shuai Guo. MR-Similarity: Parallel Algorithm of Vessel Mobility Pattern Detection. The 2nd International Conference on Big Data Computing and Communication, 2016.(EI)
 ● Yingjian Liu*, Qiu Meng, Chao Liu, and Zhongwen Guo. Big Data in Ocean Observation. The 2nd International Conference on Big Data Computing and Communication, 2016.(EI)
 ● Zhongwei Sun, Zhongwen Guo*, Mingxing Jiang, Xi Wang and Chao Liu . Research and Application of Fast Multi-label SVM Classification Algorithm Using Approximate Extreme Points. The 2nd International Conference on Big Data Computing and Communication, 2016.(EI)(Best Paper Candidate)
@@ -78,12 +78,12 @@ ISO 21851国际标准工作组副主席、China ACM SIGAPP执行委员会委员�
 ---2012---
 ● Zhongwen Guo, Chao Liu*, Yuan Feng and Feng Hong. CCSA: A Cloud Computing Service Architecture for Sensor Networks. In Cloud and Service Computing (CSC), 2012 International Conference on, pp. 25-31. IEEE, 2012. (EI)
 ● Zhijin Qiu, Zhongwen Guo* and Chao Liu. Adaptive High-speed Data Acquisition Algorithm in Sensor Network Nodes, Journal of Southeast University (Natural Science Edition), 2012(42). (EI)
-##专利：
+## 专利：
 ● 一种基于超声波的签到系统设计. 发明专利。申请号：CN202010052602.7
 ● 一种基于预测轨迹的海洋船舶无线网络路由方法. 发明专利。申请号：CN202010281770.3
 ● 一种基于多扬声器和多麦克风声波多目标追踪方法. 发明专利。申请号：CN202011085184.8
 ● 一种基于声波成像的手势识别方法. 发明专利。申请号：申请中
-##相关奖励：
+## 相关奖励：
 ● 2020 ACM China SIGAPP 新星奖	
 ● 2021 “正大杯”大学生创新创业实战营销大赛国家一等奖（指导教师）
 ● 2021 挑战杯山东省一等奖 （指导教师 with 蒋若冰、赵凤娇）
@@ -98,7 +98,7 @@ ISO 21851国际标准工作组副主席、China ACM SIGAPP执行委员会委员�
 ● 2013山东省研究生优秀科技创新成果一等奖
 ● IEEE 1851 杰出贡献奖励
 ● 2019 中国海洋大学研究生教育成果一等奖 （with 郭忠文、洪锋）
-#研究生招生条件 Postgraduate Admissions Conditions
+# 研究生招生条件 Postgraduate Admissions Conditions
  
 我们的团队主要面向前沿移动计算、智能感知相关问题展开研究（可提前阅读论文：https://www.sciencedirect.com/science/article/pii/S1389128620311282 ）。主要成果目标为CCF A、B类顶尖会议、期刊。招生要求：
 1.有良好的数学基础（高等数学、线性代数）和动手能力；
