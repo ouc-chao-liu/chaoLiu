@@ -1,5 +1,7 @@
 # 基本信息 Basic Information
 
+![image](/ChaoLiu.jpg)
+
 **Name：** Chao Liu
 
 **Professional Title：** Associate Professor
