@@ -8,7 +8,7 @@
       <p><b>liuchao@ouc.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/chaoliu.jpg" width="100%">      % 插入证件照代码
+      <img src="/chaoliu.jpg" width="100%">
     </td>
   </tr>
 </table>
