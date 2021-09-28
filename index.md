@@ -17,20 +17,25 @@
 
 ## 教育经历
 2014/10－2015/10，伊利诺伊理工大学，联合培养博士
+
 2011/09－2016/07，中国海洋大学，计算机系统结构，博士
+
 2007/09－2011/07，中国海洋大学，计算机科学与技术，学士
 
 ## 工作经历
 2016/7－今 中国海洋大学，讲师，副教授；
 
 ## 学术兼职
+
 ISO 21851国际标准工作组副主席、China ACM SIGAPP执行委员会委员、China ACM青岛分会执行委员会委员、IEEE 1851国际标准工作组成员、IEEE 2402国际标准工作组成员、IEEE 2735国际标准工作组成员、IEEE 2735.1 国际标准工作组成员、GB/T33137-2016国家标准工作组成员
 
 # 研究方向 Research Direction
+
 智能感知、声波感知、人机交互、物联网、容迟网络、轨迹数据挖掘。近期研究计划主要集中在便携设备声波或毫米波感知技术。（部分成果Demo: https://www.bilibili.com/video/BV1ty4y1a7YT/, https://www.bilibili.com/video/BV15p4y1S7As ）
 
 # 研究项目 Research Project
 ## 主持主要项目
+
 1.2020.01-2022.12,国家自然科学基金青年基金“基于多源时空大数据驱动的广海域船联网数据传输算法研究”（#61902367），（位次1）
 
 2.2021.05-2022.06，中国海洋大学研究生教育改革项目“前沿需求导向的物联网高端人才培养模式研究”（#HDJG21007），（位次1）
@@ -125,7 +130,7 @@ ISO 21851国际标准工作组副主席、China ACM SIGAPP执行委员会委员�
 
 ● Mingxing Jiang, Zhongwen Guo* and Chao Liu. A Reformative System Architecture of Cloud Service Based on IEEE 1851. In Service-Oriented Computing-ICSOC 2012 Workshops, pp. 255-262. Springer Berlin Heidelberg, 2013. (EI)
 
----2012---
+##---2012---
 ● Zhongwen Guo, Chao Liu*, Yuan Feng and Feng Hong. CCSA: A Cloud Computing Service Architecture for Sensor Networks. In Cloud and Service Computing (CSC), 2012 International Conference on, pp. 25-31. IEEE, 2012. (EI)
 
 ● Zhijin Qiu, Zhongwen Guo* and Chao Liu. Adaptive High-speed Data Acquisition Algorithm in Sensor Network Nodes, Journal of Southeast University (Natural Science Edition), 2012(42). (EI)
@@ -170,9 +175,8 @@ ISO 21851国际标准工作组副主席、China ACM SIGAPP执行委员会委员�
 
 # 研究生招生条件 Postgraduate Admissions Conditions
  
-我们的团队主要面向前沿移动计算、智能感知相关问题展开研究（可提前阅读论文：
+我们的团队主要面向前沿移动计算、智能感知相关问题展开研究（可提前阅读论文：https://www.sciencedirect.com/science/article/pii/S1389128620311282 ）。主要成果目标为CCF A、B类顶尖会议、期刊。招生要求：
 
-https://www.sciencedirect.com/science/article/pii/S1389128620311282 ）。主要成果目标为CCF A、B类顶尖会议、期刊。招生要求：
 1.有良好的数学基础（高等数学、线性代数）和动手能力；
 
 2.具备复变函数、信号分析相关的基本知识优先；
